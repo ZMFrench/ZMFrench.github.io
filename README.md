@@ -1,6 +1,6 @@
 <p style="color:#003399;font-size:18px;font-weight:bold;text-align:center;">Welcome to My Webpage!</p>
 
-<p style=”color:#000;font-size:14px;font-weight:normal;text-align:left;”>You have stumbled upon the lovely webpage of Wanda WikiHow. This is my little nook on the Internet, featuring my artwork, writing, graphic designs, and future project ideas. Please feel free to take a look around using the navigation menu to the left, and to leave a comment with your thoughts! If you’d like to send me an email, head to the <a href=”/contactme.html” target=”_blank”>contact</a> page. I’d be more than happy to return your correspondence!</p>
+<p style=”color:#000;font-size:14px;font-weight:normal;text-align:left;”> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque convallis sagittis orci, vitae vulputate risus sollicitudin a. Phasellus pellentesque sit amet mi sit amet varius. Aliquam ut auctor urna. Aliquam faucibus auctor massa, vel lobortis nunc ultricies ac. Phasellus rutrum erat eget purus dapibus, nec pretium nisl fringilla. Sed ac leo eu diam tincidunt commodo in vitae sapien. Sed facilisis magna in arcu auctor condimentum. Fusce molestie hendrerit sodales. Proin consequat est eu condimentum pellentesque. Quisque sem nibh, placerat sit amet ipsum at, molestie viverra urna. <a href=”/contactme.html” target=”_blank”>contact</a> page. I’d be more than happy to return your correspondence!</p>
 
 
 <hr />
